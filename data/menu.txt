@@ -1,0 +1,4 @@
+Burger,50
+Pizza,80
+Sandwich,40
+Cold Coffee,60
